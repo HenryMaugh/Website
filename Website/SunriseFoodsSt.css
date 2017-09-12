@@ -1,0 +1,89 @@
+.OneButton  {
+	
+	border-radius: 5px;
+	border: 2px solid #87ceeb;
+	background-color: #ffecff;
+	height: 30px;
+	width: 80px;
+	text-align: center;
+}
+
+.OneButton a:hover {
+	color:b2532b;
+	text-decoration:none;
+}
+
+.TwoButton {
+	position:absolute;
+	border-radius: 5px;
+	border: 2px solid #8bfe6d;
+	background-color: #ffecff;
+	height: 30px;
+	width: 80px;
+	text-align: center;
+}
+
+.TwoButton a:hover {
+	color:cb022f;
+	text-decoration:none;
+}
+
+.ThreeButton {
+	position:absolute;
+	border-radius: 5px;
+	border: 2px solid #ffe743;
+	background-color: #ffecff;
+	height: 30px;
+	width: 80px;
+	text-align: center;
+}
+
+.ThreeButton a:hover {
+	color:6f02bc;
+	text-decoration:none;
+}
+
+.LeftSidebar {
+	position:absolute;
+	left: 0px;
+	top: 130px;
+	bottom: 50px;
+	width: 170px;
+	<!-- background-color: #ffffaa;-->
+	
+}
+
+.RightSidebar {
+	position:absolute;
+	right: 0px;
+	top: 130px;
+	bottom: 50px;
+	width: 170px;
+	background-color: #ddffaa;
+	
+}
+
+.header {
+	position:absolute;
+	right:0px;
+	left:0px;
+	top:0px;
+	height:130px;
+	background-color: #eeffff;
+}
+
+14:04 12/11/2015
+
+.picbox1 {
+	position:absolute;
+	width: 200px;
+	height: 150px;
+	<!--background:#44ff99;-->
+}
+
+.picbox2 {
+	position:absolute;
+	width: 200px;
+	height: 150px;
+	<!--background:#ffdd55;-->
+}
